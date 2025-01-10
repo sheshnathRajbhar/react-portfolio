@@ -18,8 +18,9 @@ const Footer = () => {
         <h3 class="fs-2">Social Links</h3>
         <a href="https://www.facebook.com/profile.php?id=100068863898913"><p>FaceBook</p></a>
         <a href="https://www.instagram.com/srajs4612/"><p>Instagram</p></a>
-        <p>Twitter</p>
-        <p>Linked In</p>
+        <a href="https://github.com/sheshnathRajbhar"> <p>Github</p></a>
+        <a href="https://www.linkedin.com/in/sheshnath-rajbhar-75b17a293"> <p>Linked In</p></a>
+      
      </div>
      <div class="col-4">
         <h3 class="fs-2">Projects Links</h3>
