@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.navbar img{
+   display: none;
+}
+
+.navbar__logo{
+    font-size: 1.5rem;
+    font-weight: 600;
+    
+}
+
+.navbar__menu{
+    display: flex;
+    transition: 0.5s;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+}
+span{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color:red;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: 600;
+}

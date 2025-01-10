@@ -1,0 +1,29 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center ;
+    justify-content: space-between;
+}
+
+.col-6{
+    flex-basis: 49%;
+    
+}
+
+.col-6 form{
+    width: 100%;
+}
+
+.col-6 form input,textarea{
+    display: block;
+    margin: 5px 0 15px;
+    width: 400px;
+    padding: 10px;
+    border-radius: 4px;
+    outline: 0;
+    border: 1px solid #ec1bae;
+}
+
+.send-btn{
+    border-radius: 4px;
+}
